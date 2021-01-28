@@ -1,0 +1,21 @@
+{  
+   "query":[  
+      "https://www.oedigital.com/vessels",
+      "https://www.offshore-mag.com/rigs-vessels",
+      "https://www.marinelink.com/news/maritime/offshore",
+      "https://splash247.com/category/sector/offshore/",
+      "https://aogdigital.com/vessels",
+      "https://gcaptain.com/category/news/offshore-news/",
+      "https://www.mua.org.au/industry/offshore-oil-and-gas",
+      "https://www.damen.com/en/markets/offshore-oil-and-gas#news",
+      "https://www.rigzone.com/news/",
+      "https://www.worldoil.com/topics/europe",
+      "https://www.newsnow.co.uk/h/Industry+Sectors/Energy~Utilities/Oil+&+Gas/Europe",
+      "https://www.offshore-technology.com/projects/technology/",
+      "https://www.offshore-energy.biz/dredging/",
+      "https://www.offshore-technology.com/news/"
+      
+   ],
+   "source": "universal",
+   "callback_url": "https://your.callback.url"
+}
